@@ -1,0 +1,7 @@
+queen10_10.col
+queen12_12.col
+queen14_14.col
+queen15_15.col
+queen16_16.col
+school1.col
+school1_nsh.col
